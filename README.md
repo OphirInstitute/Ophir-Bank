@@ -10,10 +10,10 @@ Video Link : https://drive.google.com/drive/folders/1MJFRLXTW1zgZbnYI2FyNGgnINxa
 TimeStamp : (04:21:94)
 
 ## Getting Started
-Go to Remix
+Go to `Remix`
 
-Paste the code from ophirbank.sol, OphirPriceConverter.sol, and safemath.sol in new files (in same folder) in Remix
+Paste the code from `ophirbank.sol`, `OphirPriceConverter.sol`, and `safemath.sol` in new files (in same folder) in Remix
 
-Hit Compile
+Hit `Compile`
 
-Hit Deploy for ophirbank.sol contract you want.
+Hit `Deploy` for `ophirbank.sol` contract.
